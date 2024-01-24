@@ -22,19 +22,19 @@ namespace ConsoleApp1
         }
 
         //Constructor con parametros
-        public SuperHeroe(string nombre, string identidadsecreta, string ciudad, bool puedevolar){
+        public SuperHeroe(string nombre, string identidadsecreta, string ciudad, bool puedevolar, SuperPoder superPoder){
             Nombre = nombre;
             IdentidadSecreta = identidadsecreta;
             Ciudad = ciudad;
             PuedeVolar = puedevolar;
-            SuperPoder = new SuperPoder();
+            SuperPoder =  superPoder;
         }
 
         public void Imprimir(){
             //Linea divisoria superior
-            Console.Write(new string ('-', 115));
+            Console.Write(new string ('-', 143));
             //Formato para la fila, tiene que coincidir con el encabezado
-            string fila = "\n| {0,-15} | {1,-20} | {2,-15} | {3,-1} | {4,-15} | {5,-20} | {6,6} |";
+            string fila = "\n| {0,-15} | {1,-20} | {2,-15} | {3,-15} | {4,-20} | {5,-30} | {6,6} |";
             //Cadena de impresión según el formato establecido en fila
             Console.WriteLine(String.Format(fila, Nombre, IdentidadSecreta, Ciudad, PuedeVolar, SuperPoder.Nombre, SuperPoder.Descripcion, SuperPoder.Nivel));
 

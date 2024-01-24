@@ -1,16 +1,27 @@
 ﻿using ConsoleApp1;
+//Batman
+SuperPoder Intelecto = new SuperPoder("Intelecto", "Usa su intelecto", 5);
+SuperHeroe Batman = new SuperHeroe("Batman", "Bruno Díaz", "Gotica", false, Intelecto);
 
-//Primer Objeto super heroe Batman
-SuperHeroe Batman = new SuperHeroe("Batman", "Bruno Díaz", "Gotica", false);
+//Linterna verde
+SuperPoder luz = new SuperPoder("Semi-invulnerable", "Proyeccion de luz", 5);
+SuperHeroe LinternaVerde = new SuperHeroe("Linterna verde", "Hal Jordan", "Sector2814", true, luz);
 
+//Flash
+SuperPoder Velocidad = new SuperPoder("Velocidad","Romper las leyes de la fisisca",5);
+SuperHeroe Flash = new SuperHeroe("Flash", "Barry Allen", "Central City", false, Velocidad);
 
-SuperPoder _Batman = new SuperPoder("Intlecto", "Usa su intelecto", 5);
+//Linea divisoria media
+Console.Write(new string('-', 143));
+
 //Formato del encabezado acorde a la fila
-string encabezado = "| {0,-15} | {1,-20} | {2,-15} | {3,-1} | {4,-15} | {5,-20} | {6,6} |";
+string encabezado = "\n| {0,-15} | {1,-20} | {2,-15} | {3,-15} | {4,-20} | {5,-30} | {6,6} |";
+
 // Imprimir según el formata establecido
 Console.WriteLine(String.Format(encabezado, "Nombre", "Identidad Secreta", "Ciudad", "Puede Volar", "Super Poder", "Descripción", "Nivel"));
-//Linea divisoria media
-//Console.Write(new string('-', 98 ));
+
 Batman.Imprimir();
+LinternaVerde.Imprimir();
+Flash.Imprimir();
 //Linea divisoria baja
-//Console.Write(new string('-', 98));
+Console.Write(new string('-', 143));
