@@ -1,0 +1,15 @@
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\bin\Debug\net8.0\EjercicioInterfazClase.exe
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\bin\Debug\net8.0\EjercicioInterfazClase.deps.json
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\bin\Debug\net8.0\EjercicioInterfazClase.runtimeconfig.json
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\bin\Debug\net8.0\EjercicioInterfazClase.dll
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\bin\Debug\net8.0\EjercicioInterfazClase.pdb
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\EjercicioInterfazClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\EjercicioInterfazClase.AssemblyInfoInputs.cache
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\EjercicioInterfazClase.AssemblyInfo.cs
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\EjercicioInterfazClase.csproj.CoreCompileInputs.cache
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\EjercicioInterfazClase.sourcelink.json
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\EjercicioInterfazClase.dll
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\refint\EjercicioInterfazClase.dll
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\EjercicioInterfazClase.pdb
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\EjercicioInterfazClase.genruntimeconfig.cache
+C:\Users\MPamdoe\source\repos\EjercicioClaseNew\EjercicioInterfaz\EjercicioInterfaz\obj\Debug\net8.0\ref\EjercicioInterfazClase.dll

@@ -12,8 +12,8 @@ namespace ConsoleApp1
         public string Descripcion { get; set; }
         
         public int Nivel { get; set; }
-        //Constructor vacio
-        public SuperPoder() { }
+        
+        public SuperPoder() { }//Constructor vacio
         //Constructor con parametros
         public SuperPoder(string nombre, string descripcion, int nivel) 
         {
